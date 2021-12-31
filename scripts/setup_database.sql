@@ -1,0 +1,2 @@
+ALTER USER postgres CREATEDB;
+CREATE DATABASE lsp_westeros ENCODING 'UTF8' OWNER postgres;

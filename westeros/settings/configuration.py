@@ -1,0 +1,4 @@
+
+# username length settings
+MINIMUM_USERNAME_LENGTH=6
+MAXIMUM_USERNAME_LENGTH=120
